@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AirQualityClone</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aqi_rating">AQI Rating</string>
+    <string name="city_name">City</string>
+    <string name="aqi">AQI</string>
+    <string name="time_stamp">2018-10-15T01:00:00.000Z</string>
+</resources>
